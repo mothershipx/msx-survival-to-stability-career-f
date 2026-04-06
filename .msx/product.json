@@ -1,0 +1,32 @@
+{
+  "id": "d63fc68b-b34a-485c-a5a0-4c05bd30405b",
+  "name": "Survival-to-Stability Career Fast-Tracking",
+  "slug": "survival-to-stability-career-f",
+  "category": "fintech",
+  "score": 88,
+  "description": "High-risk youth (homeless or formerly homeless) need survival-focused career leads that bypass traditional recruitment barriers like long interview cycles and background checks.",
+  "pain_points": [
+    "History of homelessness creating urgency and panic",
+    "Ghosting by employers after training/interviews",
+    "Lack of resources for 'survival-first' employment instead of 'career-first'"
+  ],
+  "market_size": null,
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "22 upvotes",
+      "source": "reddit",
+      "mentions": 26
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-survival-to-stability-career-f/",
+  "repo_url": "https://github.com/mothershipx/msx-survival-to-stability-career-f",
+  "created_at": "2026-04-06T07:27:00.612Z",
+  "pipeline_version": "1.0.0"
+}
