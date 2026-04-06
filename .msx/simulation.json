@@ -1,0 +1,12 @@
+{
+  "projected_mrr_6mo": "$1960",
+  "projected_mrr_12mo": "$7540",
+  "time_to_mvp_days": 8,
+  "target_users_month1": 490,
+  "growth_rate_monthly": "27%",
+  "competition_level": "low",
+  "confidence": "high",
+  "recommended_pricing": "$19-49/mo",
+  "breakeven_months": 3,
+  "generated_at": "2026-04-06T07:27:00.612Z"
+}
