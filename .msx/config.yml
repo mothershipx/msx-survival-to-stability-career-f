@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Survival-to-Stability Career Fast-Tracking
+slug: survival-to-stability-career-f
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: survival-to-stability-career-f.msx.dev
